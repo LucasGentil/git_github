@@ -1,6 +1,6 @@
 # Git and github curso na Udemy
 
-Esse é um repositório teste para ensinar como o Git funciona.
+Esse é um repositório feito para aprender como o Git e Github funcionam.
 
 ## Para doações
 
